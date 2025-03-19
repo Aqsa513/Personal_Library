@@ -1,0 +1,16 @@
+[
+    {
+        "title": "learn next.js",
+        "author": "allice",
+        "year": 2022,
+        "genre": "cooding",
+        "read_status": true
+    },
+    {
+        "title": "learn HTML",
+        "author": "allice",
+        "year": 2023,
+        "genre": "cooding",
+        "read_status": true
+    }
+]
